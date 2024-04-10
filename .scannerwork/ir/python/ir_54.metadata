@@ -1,0 +1,2 @@
+sonarqube.rest.auth.SonarQubeAuth.__init__
+super.__init__

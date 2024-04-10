@@ -1,0 +1,23 @@
+
+Jsonarqube.rest.qualitygates.SonarQubeQualityGates.get_qualitygate_projectsR
+HC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\qualitygates.py ( "3*5
+3
+qualitygates.py"
+0 0(
+implicit return:
+ (
+
+gateName:
+ (+
+
+selected:
+- (7
+query:
+9 (J
+organization:
+L (U
+page:
+W (d
+
+pageSizeB53
+1sonarqube.rest.qualitygates.SonarQubeQualityGatesH

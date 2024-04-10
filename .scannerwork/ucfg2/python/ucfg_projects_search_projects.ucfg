@@ -1,0 +1,26 @@
+
+9sonarqube.rest.projects.SonarQubeProjects.search_projectsN
+DC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\projects.py" "("3*/
+3
+projects.py"
+F F
+implicit return:
+$ $(
+organization:
+% %(
+analyzedBefore:
+& &(!
+onProvisionedOnly:
+' '(
+
+projects:
+( ((
+p:
+) )(
+ps:
+* *(
+q:
++ +(
+
+qualifiersB-+
+)sonarqube.rest.projects.SonarQubeProjectsH

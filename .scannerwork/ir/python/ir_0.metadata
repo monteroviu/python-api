@@ -1,0 +1,2 @@
+sonarqube.rest.qualitygates.SonarQubeQualityGates.__init__
+super.__init__

@@ -1,0 +1,14 @@
+
+Bsonarqube.rest.duplications.SonarQubeDuplications.get_duplicationsR
+HC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\duplications.py ("3*3
+3
+duplications.py"
+   
+implicit return:
+ ("
+key:
+$ (/
+branch:
+1 (A
+pullRequestB53
+1sonarqube.rest.duplications.SonarQubeDuplicationsH

@@ -1,0 +1,12 @@
+
+Bsonarqube.rest.user_tokens.SonarQubeUserTokens.generate_user_tokenQ
+GC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\user_tokens.py ("3*4
+3
+user_tokens.py"
+' '(
+implicit return:
+" (&
+name:
+( (2
+loginB20
+.sonarqube.rest.user_tokens.SonarQubeUserTokensH

@@ -1,0 +1,2 @@
+sonarqube.rest.audit_logs.SonarQubeAuditLogs.__init__
+super.__init__

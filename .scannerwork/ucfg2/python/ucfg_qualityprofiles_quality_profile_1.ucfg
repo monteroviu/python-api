@@ -1,0 +1,15 @@
+
+Nsonarqube.rest.qualityprofiles.SonarQubeQualityProfiles.delete_quality_profileU
+KC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\qualityprofiles.pyP P("3*6
+3
+qualityprofiles.py"
+[ [
+implicit return:
+P% P(-
+
+language:
+P/ P(=
+qualityProfile:
+P? P(P
+organizationB;9
+7sonarqube.rest.qualityprofiles.SonarQubeQualityProfilesH

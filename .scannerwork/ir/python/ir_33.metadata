@@ -1,0 +1,2 @@
+sonarqube.rest.issues.SonarQubeIssues.__init__
+super.__init__

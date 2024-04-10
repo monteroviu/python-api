@@ -1,0 +1,85 @@
+
+/sonarqube.rest.issues.SonarQubeIssues.get_issueL
+BC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\issues.py ("2*›
+2 (/òï
+ (/
+%3*E
+
+__unknown_file ()'
+%sonarqube.rest.issues.SonarQubeIssues2search_issues:-
+issues#
+
+__unknown_file (
+
+key@
+>
+ (/
+result"__id*"
+
+__unknown_file (
+
+%3
+& ((
+%4"liståâ
+ ()
+%5*&
+
+__unknown_file (
+
+
+result*&
+
+__unknown_file (
+
+issues*"
+
+__unknown_file (
+
+%42get@
+>
+ ()
+issues"__id*"
+
+__unknown_file (
+
+%5*
+3
+5*/
+3
+	issues.py"
+" "(
+implicit return*ù
+5 ("us
+ (
+%1"__mapGet*%
+
+__unknown_file (	
+
+issue*#
+
+__unknown_file (
+key2__getitem__ã
+à
+ ("
+%2"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+
+%1*#
+
+__unknown_file (
+
+key*	
+3
+5
+6*$
+6   ("
+   (	
+
+issue:
+ (
+keyB)'
+%sonarqube.rest.issues.SonarQubeIssuesH

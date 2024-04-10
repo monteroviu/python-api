@@ -1,0 +1,2 @@
+sonarqube.rest.views.SonarQubeViews.__init__
+super.__init__

@@ -1,0 +1,53 @@
+
+.sonarqube.utils.rest_client.RestClient._deleteT
+HC:\Users\renem\repos\python-sonarqube-api\sonarqube\utils\rest_client.py´ ´("2*ø
+2
+µ ½(ÐÍ
+
+¾ À(	
+%1*F
+
+__unknown_file (*(
+&sonarqube.utils.rest_client.RestClient*&
+
+__unknown_file (
+
+DELETE2request:,
+path$
+
+__unknown_file (
+
+path:,
+data$
+
+__unknown_file (
+
+data:2
+headers'
+
+__unknown_file (
+	
+headers:0
+params&
+
+__unknown_file (
+
+
+params"
+
+¾ À(	
+
+%1:
+
+´ ´(
+path:
+
+´ ´(%
+data:
+
+´' ´(3	
+headers:
+
+´5 ´(@
+paramsB*(
+&sonarqube.utils.rest_client.RestClientH

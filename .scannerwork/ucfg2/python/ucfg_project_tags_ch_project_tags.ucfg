@@ -1,0 +1,14 @@
+
+Dsonarqube.rest.project_tags.SonarQubeProjectTags.search_project_tagsR
+HC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\project_tags.py ("3*7
+3
+project_tags.py"
+! !(
+implicit return:
+" ((
+q:
+* (1
+ps:
+3 (9
+pB42
+0sonarqube.rest.project_tags.SonarQubeProjectTagsH

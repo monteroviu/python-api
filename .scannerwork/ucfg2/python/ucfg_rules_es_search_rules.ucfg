@@ -1,0 +1,69 @@
+
+0sonarqube.rest.rules.SonarQubeRules.search_rulesK
+AC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\rules.py ("3*0
+3
+
+rules.py"
+× ×(
+implicit return:
+ (
+organization:
+ (
+
+activation:
+ (
+
+qprofile:
+ (
+	languages:
+ (
+active_severities:
+   (
+asc:
+! !(
+available_since:
+" "(
+cwe:
+# #(
+f:
+$ $(
+facets:
+% %( 
+include_external:
+& &(
+inheritance:
+' '(
+is_template:
+( ((
+
+owaspTop10:
+) )(
+p:
+* *(
+ps:
++ +(
+q:
+, ,(
+repositories:
+- -(
+
+rule_key:
+. .(
+s:
+/ /(
+	sansTop25:
+0 0(
+
+severities:!
+1 1( 
+sonarsourceSecurity:
+2 2(
+
+statuses:
+3 3(
+tags:
+4 4(
+template_key:
+5 5(
+typesB'%
+#sonarqube.rest.rules.SonarQubeRulesH

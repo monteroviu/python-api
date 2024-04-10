@@ -1,0 +1,14 @@
+
+;sonarqube.rest.user_groups.SonarQubeUserGroups.update_groupQ
+GC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\user_groups.pyB B("3*2
+3
+user_groups.py"
+O O
+implicit return:
+B B(&
+currentName:
+B( B(1
+name:
+B3 B(C
+descriptionB20
+.sonarqube.rest.user_groups.SonarQubeUserGroupsH

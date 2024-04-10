@@ -1,0 +1,7 @@
+organization=monteroviu
+projectKey=monteroviu_piton
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53637
+dashboardUrl=https://sonarcloud.io/dashboard?id=monteroviu_piton
+ceTaskId=AY6rn_9jaGPAyAIluxdy
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY6rn_9jaGPAyAIluxdy

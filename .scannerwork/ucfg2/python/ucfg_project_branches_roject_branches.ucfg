@@ -1,0 +1,10 @@
+
+Psonarqube.rest.project_branches.SonarQubeProjectBranches.search_project_branchesV
+LC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\project_branches.py ("3*;
+3
+project_branches.py"
+ (
+implicit return:
+& (-	
+projectB<:
+8sonarqube.rest.project_branches.SonarQubeProjectBranchesH

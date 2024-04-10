@@ -1,0 +1,2 @@
+sonarqube.rest.rules.SonarQubeRules.__init__
+super.__init__

@@ -1,0 +1,4 @@
+sonarqube.rest.issues.SonarQubeIssues.get_issue
+==
+search_issues
+get

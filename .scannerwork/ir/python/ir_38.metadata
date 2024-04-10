@@ -1,0 +1,3 @@
+sonarqube.utils.common.strip_trailing_slash
+==
+endswith

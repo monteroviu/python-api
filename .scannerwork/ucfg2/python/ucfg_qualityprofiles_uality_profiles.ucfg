@@ -1,0 +1,20 @@
+
+Osonarqube.rest.qualityprofiles.SonarQubeQualityProfiles.search_quality_profilesU
+KC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\qualityprofiles.py@ @("3*8
+3
+qualityprofiles.py"
+O O(
+implicit return:
+A A(
+organization:
+A! A(1
+
+defaults:
+A3 A(@
+
+language:
+AB A(N	
+project:
+AP A(c
+qualityProfileB;9
+7sonarqube.rest.qualityprofiles.SonarQubeQualityProfilesH

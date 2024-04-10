@@ -1,0 +1,35 @@
+
+/sonarqube.rest.rules.SonarQubeRules.create_ruleM
+AC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\rules.pyØ Ø("3*.
+3
+
+rules.py"
+‚ ‚
+implicit return:
+
+Ú Ú(
+
+custom_key:
+
+Û Û(
+name:$
+
+Ü Ü(
+markdown_description:
+
+Ý Ý(
+template_key:
+
+Þ Þ(
+
+severity:
+
+ß ß(
+status:
+
+à à(
+type:
+
+á á(
+paramsB'%
+#sonarqube.rest.rules.SonarQubeRulesH

@@ -1,0 +1,12 @@
+
+@sonarqube.rest.audit_logs.SonarQubeAuditLogs.download_audit_logsP
+FC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\audit_logs.py ("3*1
+3
+audit_logs.py"
+! !
+implicit return:
+" (+
+	from_date:
+- (4	
+to_dateB0.
+,sonarqube.rest.audit_logs.SonarQubeAuditLogsH

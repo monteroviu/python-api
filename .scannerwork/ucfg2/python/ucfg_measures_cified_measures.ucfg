@@ -1,0 +1,19 @@
+
+Osonarqube.rest.measures.SonarQubeMeasures.get_component_with_specified_measuresN
+DC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\measures.py (-"3*/
+3
+measures.py"
+. .
+implicit return:
+ (
+	component:
+ (
+
+metricKeys:
+ (
+branch:
+ (
+pullRequest:
+   (
+additionalFieldsB-+
+)sonarqube.rest.measures.SonarQubeMeasuresH

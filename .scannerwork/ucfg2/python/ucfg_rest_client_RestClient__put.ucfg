@@ -1,0 +1,60 @@
+
++sonarqube.utils.rest_client.RestClient._putT
+HC:\Users\renem\repos\python-sonarqube-api\sonarqube\utils\rest_client.py¥ ¥("2*¥
+2
+¦ ¯(ýú
+
+° ²(	
+%1*F
+
+__unknown_file (*(
+&sonarqube.utils.rest_client.RestClient*#
+
+__unknown_file (
+PUT2request:,
+path$
+
+__unknown_file (
+
+path:,
+data$
+
+__unknown_file (
+
+data:2
+headers'
+
+__unknown_file (
+	
+headers:.
+files%
+
+__unknown_file (	
+
+files:0
+params&
+
+__unknown_file (
+
+
+params"
+
+° ²(	
+
+%1:
+
+¥ ¥(
+path:
+
+¥ ¥("
+data:
+
+¥$ ¥(0	
+headers:
+
+¥2 ¥(<
+files:
+
+¥> ¥(I
+paramsB*(
+&sonarqube.utils.rest_client.RestClientH

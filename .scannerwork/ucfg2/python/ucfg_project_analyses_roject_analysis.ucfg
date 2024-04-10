@@ -1,0 +1,11 @@
+
+Psonarqube.rest.project_analyses.SonarQubeProjectAnalyses.delete_project_analysisV
+LC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\project_analyses.py ("3*9
+3
+project_analyses.py"
+$ $(
+implicit return:
+& (.
+
+analysisB<:
+8sonarqube.rest.project_analyses.SonarQubeProjectAnalysesH

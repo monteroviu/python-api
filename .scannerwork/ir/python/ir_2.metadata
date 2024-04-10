@@ -1,0 +1,2 @@
+sonarqube.rest.duplications.SonarQubeDuplications.__init__
+super.__init__

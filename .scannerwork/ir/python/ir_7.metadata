@@ -1,0 +1,4 @@
+sonarqube.rest.SonarQubeClient.__init__
+sonarqube.utils.common.strip_trailing_slash
+requests.auth.HTTPBasicAuth.__init__
+requests.sessions.Session.__init__

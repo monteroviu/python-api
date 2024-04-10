@@ -1,0 +1,4 @@
+sonarqube.rest.user_groups.SonarQubeUserGroups.get_user_group
+==
+get
+search_user_groups

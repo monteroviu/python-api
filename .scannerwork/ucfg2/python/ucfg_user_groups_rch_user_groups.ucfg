@@ -1,0 +1,20 @@
+
+Asonarqube.rest.user_groups.SonarQubeUserGroups.search_user_groupsQ
+GC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\user_groups.py" "("3*4
+3
+user_groups.py"
+5 5(
+implicit return:
+"! "(2
+organization:
+"4 "(:
+f:
+"< "(H	
+managed:
+"J "(P
+q:
+"R "(X
+p:
+"Z "(a
+psB20
+.sonarqube.rest.user_groups.SonarQubeUserGroupsH

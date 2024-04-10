@@ -1,0 +1,28 @@
+
+*sonarqube.rest.ce.SonarQubeCe.search_tasksH
+>C:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\ce.py ("3*-
+3
+ce.py"
+J J(
+implicit return:
+ (
+	component:
+ (
+componentId:
+ (
+maxExecutedAt:
+ (
+minSubmittedAt:
+ (
+onlyCurrents:
+ (
+p:
+   (
+ps:
+! !(
+q:
+" "(
+status:
+# #(
+typeB!
+sonarqube.rest.ce.SonarQubeCeH

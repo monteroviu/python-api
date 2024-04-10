@@ -1,0 +1,23 @@
+
+[sonarqube.rest.project_analyses.SonarQubeProjectAnalyses.search_project_analyses_and_eventsV
+LC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\project_analyses.py% %(*"3*;
+3
+project_analyses.py"
+< <(
+implicit return:
+& &(	
+project:
+& &("
+branch:
+&$ &(1
+
+category:
+&3 &(A
+	from_date:
+&C &(O	
+to_date:
+&Q &(W
+p:
+&Y &(`
+psB<:
+8sonarqube.rest.project_analyses.SonarQubeProjectAnalysesH

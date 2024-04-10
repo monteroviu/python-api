@@ -1,0 +1,14 @@
+
+;sonarqube.rest.user_groups.SonarQubeUserGroups.create_groupQ
+GC:\Users\renem\repos\python-sonarqube-api\sonarqube\rest\user_groups.py6 6("3*4
+3
+user_groups.py"
+A A(
+implicit return:
+6 6(
+name:
+6! 6(2
+organization:
+64 6(D
+descriptionB20
+.sonarqube.rest.user_groups.SonarQubeUserGroupsH
